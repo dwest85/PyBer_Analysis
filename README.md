@@ -8,15 +8,15 @@
 
 * The table below shows the Average Fare breakdown, which the Rural rides greatly outweight the other two city types.
 
-![avg_fare_breakdown]()
+![avg_fare_breakdown](https://github.com/dwest85/PyBer_Analysis/blob/main/markdownpics/avg_fare_breakdown.JPG)
 
 * The table below shows the weekly breakdown in sales, which the Urban areas greatly outweighed the other two city types.
 
-![total_sales_by_week]()
+![total_sales_by_week](https://github.com/dwest85/PyBer_Analysis/blob/main/markdownpics/total_sales_by_week.JPG)
 
 * The visualization chart below helps reveal insight based on total Fare dollars and city types. The Urban sales highly outweight the other two city types.
 
-![visual_chart]()
+![visual_chart](https://github.com/dwest85/PyBer_Analysis/blob/main/markdownpics/visual_chart.JPG)
 
 
 # Summary
